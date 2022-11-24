@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Phonebook-test/static/css/main.d6fdfdb1.css",
+    "main.js": "/Phonebook-test/static/js/main.6d7c1e61.js",
+    "static/js/544.357ed7bb.chunk.js": "/Phonebook-test/static/js/544.357ed7bb.chunk.js",
+    "static/css/854.33cbfcbe.chunk.css": "/Phonebook-test/static/css/854.33cbfcbe.chunk.css",
+    "static/js/854.48d6a0b6.chunk.js": "/Phonebook-test/static/js/854.48d6a0b6.chunk.js",
+    "static/css/656.a11a4b65.chunk.css": "/Phonebook-test/static/css/656.a11a4b65.chunk.css",
+    "static/js/656.c5deaa55.chunk.js": "/Phonebook-test/static/js/656.c5deaa55.chunk.js",
+    "static/js/189.93e7fe25.chunk.js": "/Phonebook-test/static/js/189.93e7fe25.chunk.js",
+    "static/js/753.fb3be635.chunk.js": "/Phonebook-test/static/js/753.fb3be635.chunk.js",
+    "static/js/715.d43ca6a3.chunk.js": "/Phonebook-test/static/js/715.d43ca6a3.chunk.js",
+    "static/js/828.e0eb696e.chunk.js": "/Phonebook-test/static/js/828.e0eb696e.chunk.js",
+    "index.html": "/Phonebook-test/index.html",
+    "main.d6fdfdb1.css.map": "/Phonebook-test/static/css/main.d6fdfdb1.css.map",
+    "main.6d7c1e61.js.map": "/Phonebook-test/static/js/main.6d7c1e61.js.map",
+    "544.357ed7bb.chunk.js.map": "/Phonebook-test/static/js/544.357ed7bb.chunk.js.map",
+    "854.33cbfcbe.chunk.css.map": "/Phonebook-test/static/css/854.33cbfcbe.chunk.css.map",
+    "854.48d6a0b6.chunk.js.map": "/Phonebook-test/static/js/854.48d6a0b6.chunk.js.map",
+    "656.a11a4b65.chunk.css.map": "/Phonebook-test/static/css/656.a11a4b65.chunk.css.map",
+    "656.c5deaa55.chunk.js.map": "/Phonebook-test/static/js/656.c5deaa55.chunk.js.map",
+    "189.93e7fe25.chunk.js.map": "/Phonebook-test/static/js/189.93e7fe25.chunk.js.map",
+    "753.fb3be635.chunk.js.map": "/Phonebook-test/static/js/753.fb3be635.chunk.js.map",
+    "715.d43ca6a3.chunk.js.map": "/Phonebook-test/static/js/715.d43ca6a3.chunk.js.map",
+    "828.e0eb696e.chunk.js.map": "/Phonebook-test/static/js/828.e0eb696e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fdfdb1.css",
+    "static/js/main.6d7c1e61.js"
+  ]
+}
